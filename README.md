@@ -1,5 +1,7 @@
 # LifeCycle
 
+## Projeto feito na aula sobre ciclos de vida no Angular. Aula do bootcamp da NTT Data, em parceria com a DIO. Aulas de Felipe Aguiar.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
 ## Development server
